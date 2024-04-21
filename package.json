@@ -1,0 +1,23 @@
+{
+  "name": "node-file-js",
+  "version": "0.1.1",
+  "description": "file operation in node",
+  "main": "src/index.js",
+  "scripts": {
+    "test1": "node ./example/test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiechuanlong/file.git"
+  },
+  "keywords": [
+    "node",
+    "file"
+  ],
+  "author": "xiechuanlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiechuanlong/file/issues"
+  },
+  "homepage": "https://github.com/xiechuanlong/file#readme"
+}
